@@ -52,11 +52,10 @@ Top-performing products:
 ---
 
 ## 🛠️ Tools & Technologies
-- **Power BI** – Dashboard creation and visualization  
-- **Excel** – Data cleaning and transformation  
-- **Power Query** – Data preparation  
-- **DAX** – Measures and KPIs calculation  
-
+- **Excel** – Data cleaning, transformation, and analysis  
+- **Power Query** – Data preparation  and automation 
+- **DAX (in Excel / Power Pivot)** – Measures, KPIs, and advanced calculations
+- **Pivot Tables & Charts** – Interactive reporting and visualization
 ---
 
 ## 💡 Insights Derived
@@ -82,15 +81,19 @@ Top-performing products:
 ## 📂 Project Structure
 
 Super-Global-Store-Analysis/
+
 │
 ├── data/
 │ └── Superstore_2011_2015.csv
+
 │
 ├── dashboard/
 │ └── PowerBI_Report.pbix
+
 │
 ├── screenshots/
 │ └── Super_Global_Store_Analysis.png
+
 │
 └── README.md
 
