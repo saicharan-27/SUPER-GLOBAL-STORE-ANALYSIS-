@@ -75,8 +75,32 @@ Top-performing products:
 ---
 
 ## 🖼️ Dashboard Preview
-![Super Global Store Analysis Dashboard](screenshots/Super_Global_Store_Analysis.pn)
+![Super Global Store Analysis Dashboard](https://github.com/saicharan-27/SUPER-GLOBAL-STORE-ANALYSIS-/blob/main/DASHBOARD.png)
 
 ---
 
 ## 📂 Project Structure
+
+Super-Global-Store-Analysis/
+│
+├── data/
+│ └── Superstore_2011_2015.csv
+│
+├── dashboard/
+│ └── PowerBI_Report.pbix
+│
+├── screenshots/
+│ └── Super_Global_Store_Analysis.png
+│
+└── README.md
+
+## ✨ Author
+**Ganji Saicharan**  
+📧[saicharan.ganji2@gmail.com]  
+💼 [www.linkedin.com/in/saicharan-ganji]  
+🧠 *Aspiring Data Analyst skilled in Power BI, Excel, SQL, and Data Visualization.*
+
+---
+
+### ⭐ If you found this project helpful, give it a star on GitHub!
+
